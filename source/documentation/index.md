@@ -60,11 +60,11 @@ The Regulations applies to ‘public sector bodies’. The definition is the sam
 
 There are some [exceptions](#when-you-do-not-need-to-meet-the-rules) to this. For example, public service broadcasters and some types of published content are exempt, such as online maps and pre-recorded videos published before September 2020.
 
-## The Web Content Accessibility Guidelines
+### The Web Content Accessibility Guidelines
 
 The principles of perceivable, operable, understandable and robust are set out in the Web Content Accessibility Guidelines.
 
-### Perceivable
+#### Perceivable
 ‘Perceivable’ means that information and user interface components must be presented to users in ways they can perceive in some way - it can’t be invisible to all of their senses.
 
 * Images have appropriate alternative text
@@ -77,7 +77,7 @@ The principles of perceivable, operable, understandable and robust are set out i
 * The interface have sufficient contrast between text color and background color
 * Text can be resized without losing information
 
-### Operable
+#### Operable
 ‘Operable’ means that any person must be able to use interface components (such as buttons and forms) and navigation. These can’t require interaction that a user can’t perform.
 
 * Everything on the page be operated by keyboard alone
@@ -87,7 +87,7 @@ The principles of perceivable, operable, understandable and robust are set out i
 * Mechanisms in place that allow users to bypass blocks of content
 * Link text is meaningful, independent of context
 
-### Understandable
+#### Understandable
 ‘Understandable’ means users must be able to understand any information presented, as well as being able to operate the interface (the content or operation cannot be beyond their understanding)
 
 * The language of the content has been defined
@@ -95,7 +95,7 @@ The principles of perceivable, operable, understandable and robust are set out i
 * Navigation is consistent
 * Forms provide helpful, accessible error and verification messages
 
-### Robust
+#### Robust
 ‘Robust’ means that the content must be capable of being interpreted reliably by a wide variety of user agents, including assistive technologies such as screen readers. It also means users must be able to access the content as technology changes over time
 
 * The web page is coded using valid HTML (or at least well formed and correctly nested HTML) 
@@ -116,7 +116,7 @@ They explain how to make digital services accessible to everyone, including user
 * thinking and understanding - people with dyslexia, autism or other learning difficulties
 
 
-## The EN 301 549 Accessibility Standard
+### The EN 301 549 Accessibility Standard
 EN 301 549 is a standard which specifies a broad range of accessibility requirements applicable to ICT products and services (including web pages, non-web documents and software).
 
 If you meet this standard you will be deemed to meet the requirements of the regulations. 
@@ -125,7 +125,7 @@ EN 301 549 leverages WCAG for websites, non-html documents and software.
 
 The standard has two main sections. The first outlines the accessibility needs of different user groups. The second has detailed requirements on how user’s need must be met for different products and services.
 
-### Accessibility needs
+#### Accessibility needs
 The standard has a series of [functional performance statements](http://mandate376.standards.eu/standard/functional-statements) which describe the accessibility needs that need to be met:
 
 * usage without vision
@@ -139,7 +139,7 @@ The standard has a series of [functional performance statements](http://mandate3
 * minimize photosensitive seizure triggers
 * usage with limited cognition
 
-### Accessibility requirements
+#### Accessibility requirements
 The standard also has a list of [functional accessibility requirements](http://mandate376.standards.eu/standard/technical-requirements) for different types of products and services, each of which need to be met in order to satisfy the procurement guidelines. Requirements focus on the way that information can be presented, viewed, or interacted with.
 
 Accessibility requirements for websites and web content leverage the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag-new), explicitly stating WCAG 2.0 Level AA (including Level A) as the benchmark. Where it’s appropriate, relevant WCAG criteria have been applied to other technologies, such as non-web documents and software.
