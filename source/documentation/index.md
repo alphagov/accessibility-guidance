@@ -1,16 +1,15 @@
 # Accessibility Guidance
 
-Public Secor Bodies (Websites and Mobile applications) Accessibility Regulations 2018
+This guidance was last updated on 12 June 2018
 
 ## Background
- 
-This document sets out the standards of accessibility required by public sector websites and mobile and contains practical guidance on how to achieve this. 
+This document sets out the standard of accessibility required for public sector websites and mobile apps and contains practical guidance on how to achieve this. 
 
 ‘Accessibility’ refers to principles and techniques to follow when you design, build, maintain and update websites and mobile apps in order to remove barriers to use, especially for people with disabilities.
 
-The [EU Directive on the accessibility of public sector websites and mobile applications](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016L2102&from=EN) (known as ‘the Directive’ in this document) requires UK public sector body websites and mobile applications to be accessible, unless it would be disproportionate to do so. 
+The Public Sector Bodies (Websites and Mobile applications) Accessibility Regulations 2018 (known as ‘the Regulations’ in this document) requires public sector bodies to take the necessary measures to make their websites and mobile applications more accessible by making them perceivable, operable, understandable and robust, unless it would be disproportionate to do so. 
 
-The Directive builds on existing UK legislation and commitments:
+The Regulations builds on existing UK legislation and commitments:
 
 * The [Equality Act 2010](https://www.gov.uk/guidance/equality-act-2010-guidance) legally protects people from discrimination in the workplace and in wider society
 * The UK has approved the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD) which requires measures to ensure access for persons with disabilities, on equal basis with others to information, communication technologies and the internet
@@ -45,7 +44,7 @@ Technical concerns vary throughout the different levels of government. The resou
 
 
 ## Accessibility Requirements
-The minimum standard of accessibility for public sector websites and mobile applications, is the European [accessibility standard EN 301 549](http://mandate376.standards.eu/standard) (Accessibility requirements suitable for public procurement of ICT products and services in Europe). This currently uses Level AA of the Web Content Accessibility Guidelines (WCAG) 2.0, but is being updated to use WCAG 2.1
+The regulations require public sector bodies to take the necessary measures to make their websites and mobile applications more accessible by making them perceivable, operable, understandable and robust.
 
 Websites and mobile apps must meet this standard by the following dates:
 
@@ -57,52 +56,13 @@ Websites include intranets and extranets and non-web documents such as PDFs.
 
 Public sector bodies will need to evaluate the accessibility of their websites and mobile applications. They will then be expected to fix any issues and provide detail of this in an accessibility statement hosted on their website. If there are areas of inaccessible content, the organisation responsible will have to explain the way in which the content is not accessible and the reason for it. They will also have to provide accessible alternatives where appropriate.
 
-The Directive applies to ‘public sector bodies’. The definition is the same used for EU procurement, so those bodies who are subject to the EU procurement rules will usually be subject to this Directive. This covers central and local government among other publicly funded organisations. 
+The Regulations applies to ‘public sector bodies’. The definition is the same used for EU procurement, so those bodies who are subject to the EU procurement rules will usually be subject to this Regulations. This covers central and local government among other publicly funded organisations. 
 
 There are some [exceptions](#when-you-do-not-need-to-meet-the-rules) to this. For example, public service broadcasters and some types of published content are exempt, such as online maps and pre-recorded videos published before September 2020.
 
-## The EN 301 549 Accessibility Standard
-EN 301 549 is a standard which specifies a broad range of accessibility requirements applicable to ICT products and services (including web pages, non-web documents and software).
+## The Web Content Accessibility Guidelines
 
-The standard has two main sections. The first outlines the accessibility needs of different user groups. The second has detailed requirements on how user’s need must be met for different products and services.
-
-### Accessibility needs
-The standard has a series of [functional performance statements](http://mandate376.standards.eu/standard/functional-statements) which describe the accessibility needs that need to be met:
-
-* usage without vision
-* usage with limited vision
-* usage without perception of colour
-* usage without hearing
-* usage with limited hearing
-* usage without vocal capability
-* usage with limited manipulation or strength
-* usage with limited reach
-* minimize photosensitive seizure triggers
-* usage with limited cognition
-
-### Accessibility requirements
-The standard also has a list of [functional accessibility requirements](http://mandate376.standards.eu/standard/technical-requirements) for different types of products and services, each of which need to be met in order to satisfy the procurement guidelines. Requirements focus on the way that information can be presented, viewed, or interacted with.
-
-Accessibility requirements for websites and web content leverage the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag-new), explicitly stating WCAG 2.0 Level AA (including Level A) as the benchmark. Where it’s appropriate, relevant WCAG criteria have been applied to other technologies, such as non-web documents and software.
-
-## Understanding WCAG 2.0
-The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag-new) (known as WCAG 2.0) are an internationally recognised set of recommendations, created by the World Wide Web Consortium (W3C), for improving web accessibility.
-
-They explain how to make digital services accessible to everyone, including users with impairments to their:
-
-* sight - blind, partially sighted or colour blind people
-* hearing - people who are deaf or hard of hearing
-* mobility - like those who find it difficult to use a mouse or keyboard
-* thinking and understanding - people with dyslexia, autism or other learning difficulties
-
-WCAG 2.0 is based on 4 principles:
-
-* perceivable
-* operable
-* Understandable
-* Robust
-
-For a website or mobile app to be considered accessible it must meet these principles. 
+The principles of perceivable, operable, understandable and robust are set out in the Web Content Accessibility Guidelines.
 
 ### Perceivable
 ‘Perceivable’ means that information and user interface components must be presented to users in ways they can perceive in some way - it can’t be invisible to all of their senses.
@@ -146,6 +106,44 @@ For pragmatic help on meeting WCAG you can refer to:
 * [The University of Washington: IT Accessibility Checklist and Tutorial](http://www.washington.edu/accessibility/checklist/)
 * [WCAG 2.0 Quick Start Guide](https://aduggin.github.io/wcag/)
 
+The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag-new) (known as WCAG 2.0) are an internationally recognised set of recommendations, created by the World Wide Web Consortium (W3C), for improving web accessibility.
+
+They explain how to make digital services accessible to everyone, including users with impairments to their:
+
+* sight - blind, partially sighted or colour blind people
+* hearing - people who are deaf or hard of hearing
+* mobility - like those who find it difficult to use a mouse or keyboard
+* thinking and understanding - people with dyslexia, autism or other learning difficulties
+
+
+## The EN 301 549 Accessibility Standard
+EN 301 549 is a standard which specifies a broad range of accessibility requirements applicable to ICT products and services (including web pages, non-web documents and software).
+
+If you meet this standard you will be deemed to meet the requirements of the regulations. 
+
+EN 301 549 leverages WCAG for websites, non-html documents and software.
+
+The standard has two main sections. The first outlines the accessibility needs of different user groups. The second has detailed requirements on how user’s need must be met for different products and services.
+
+### Accessibility needs
+The standard has a series of [functional performance statements](http://mandate376.standards.eu/standard/functional-statements) which describe the accessibility needs that need to be met:
+
+* usage without vision
+* usage with limited vision
+* usage without perception of colour
+* usage without hearing
+* usage with limited hearing
+* usage without vocal capability
+* usage with limited manipulation or strength
+* usage with limited reach
+* minimize photosensitive seizure triggers
+* usage with limited cognition
+
+### Accessibility requirements
+The standard also has a list of [functional accessibility requirements](http://mandate376.standards.eu/standard/technical-requirements) for different types of products and services, each of which need to be met in order to satisfy the procurement guidelines. Requirements focus on the way that information can be presented, viewed, or interacted with.
+
+Accessibility requirements for websites and web content leverage the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag-new), explicitly stating WCAG 2.0 Level AA (including Level A) as the benchmark. Where it’s appropriate, relevant WCAG criteria have been applied to other technologies, such as non-web documents and software.
+
 ## Accessibility statements
 You are required to publish an accessibility statement. 
 
@@ -158,17 +156,22 @@ It must:
 It must include:
 
 * a list of any parts of the website or app that aren’t accessible, an explanation of why, and links to accessible alternatives
-* a feedback mechanism that can be used by any person to tell you about content in the website or app that doesn’t meet the accessibility requirements, and to request information they are excluded from. This information could include  content that is excluded from the scope of the Directive such as documents, pre-recorded time-based media or the content of archived websites.In response to a legitimate and reasonable request, you should provide information within a reasonable period of time.
+* a feedback mechanism that can be used by any person to tell you about content in the website or app that doesn’t meet the accessibility requirements, and to request information they are excluded from. This information could include  content that is excluded from the scope of the Regulations such as documents, pre-recorded time-based media or the content of archived websites.In response to a legitimate and reasonable request, you should provide information within a reasonable period of time.
 * a link to the UK government's enforcement procedure which people can use in the event of an unsatisfactory response to the use of the feedback mechanism above
 
 Information about how the accessibility of apps must be either on the public sector bodies website or on the appropriate App store.
 
 ## Measuring accessibility
-The only way to find out if a website is accessible is to test it. Technical accessibility and usable accessibility need to be considered when testing. Technical accessibility determines whether the site meets WCAG 2.0 and will work with a range of assistive technologies. Usable accessibility determines whether the site will be usable by disabled people.
 
-An accessibility test plan is an essential component of meeting accessibility requirements. When developing your accessibility test plan, you should consider using an appropriate mixture of tools and techniques. For example, you may wish to use expert reviews early on in the development cycle, user testing on later designs and automated testing at regular intervals. Please note that this approach may not be appropriate in specific cases. It serves to highlight that different methods for evaluating accessibility which may be more or less appropriate at different stages of the development cycle.
+You  must review the accessibility of you website and mobile applications.
 
-Your accessibility test plan needs to include methods for testing both technical and usable accessibility.
+You should consider technical accessibility and usable accessibility when reviewing accessibility. 
+
+Technical accessibility determines whether the site meets WCAG 2.0 and will work with a range of assistive technologies. Usable accessibility determines whether the site will be usable by disabled people.
+
+You should develop an accessibility test plan to ensure you meet accessibility requirements. When developing your accessibility test plan, you should consider using an appropriate mixture of tools and techniques. For example, you may wish to use expert reviews early on in the development cycle, user testing on later designs and automated testing at regular intervals. Please note that this approach may not be appropriate in specific cases. It serves to highlight that different methods for evaluating accessibility which may be more or less appropriate at different stages of the development cycle.
+
+Your accessibility test plan should include methods for testing both technical and usable accessibility.
 
 ### How to test for technical accessibility
 Approaches for determining technical accessibility include:
@@ -244,8 +247,6 @@ British Sign Language (BSL) users who might experience problems with multimedia 
 Non-signing deaf or hard of hearing, e.g. users who might benefit from captions or transcripts of audio content.
 
 The above categorisation is purely for illustrative purposes. In reality, users may have a combination of impairments. For example, older users may have a combination of reduced vision, restricted mobility and decline in memory.
-
-Furthermore, the above categorisation does not mean that a user profile should be developed for each of the above types. A common approach is to add some of the above characteristics to a few of the existing profiles that have been defined for a website.
 
 ### Older users
 Older people can suffer from physical disabilities, such as a restricted ability to move their arms or hands. They might experience difficulty using a mouse.
@@ -415,7 +416,6 @@ PDF is a destination format, that is to say PDF files begin in other application
 The basic guidelines for non-HTML documents should always be followed.
 
 In addition to the basic guidelines for non-HTML documents, publishers of PDF files should:
-
 * Use tools and techniques that will result in the production of accessible PDF documents.
 * Use the facilities (if available) in the word processing or authoring application to add meaningful alternative text to any graphics that appear in the document.
 * Use features inbuilt into the word processor or design package to correctly specify heading levels and other styles to identify document elements such as Titles and Headings.
