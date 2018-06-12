@@ -1,7 +1,10 @@
 # Accessibility Guidance
 
+Public Secor Bodies (Websites and Mobile applications) Accessibility Regulations 2018
+
 ## Background
-This document sets out the minimum standard of accessibility for public sector websites and mobile apps and contains practical guidance on how to achieve this. 
+ 
+This document sets out the standards of accessibility required by public sector websites and mobile and contains practical guidance on how to achieve this. 
 
 ‘Accessibility’ refers to principles and techniques to follow when you design, build, maintain and update websites and mobile apps in order to remove barriers to use, especially for people with disabilities.
 
@@ -465,7 +468,7 @@ To help in the process of procuring accessible websites, the European Commission
 
 The new requirements will apply to public sector bodies.
    
-Some organisations and types of content do not need to meet the new standards.
+Some organisations and types of content do not need to meet the new Regulations. However, the requirements of the Equality Act 2010 still remain and require services provided by Public Sector Bodies excluded from these regulations to not discriminate against people with disabilities.
 
 ### If the requirements place a disproportionate burden
 You’ll need to assess what steps you need to take to make your website or app meet the new standards, if it does not already.
