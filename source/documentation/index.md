@@ -119,7 +119,7 @@ They explain how to make digital services accessible to everyone, including user
 ### The EN 301 549 Accessibility Standard
 EN 301 549 is a standard which specifies a broad range of accessibility requirements applicable to ICT products and services (including web pages, non-web documents and software).
 
-If you meet this standard you will be deemed to meet the requirements of the regulations. 
+**If you meet this standard you will be deemed to meet the requirements of the regulations.**
 
 EN 301 549 leverages WCAG for websites, non-html documents and software.
 
