@@ -1,6 +1,6 @@
 # Accessibility Guidance
 
-This guidance was last updated on 12 June 2018
+This guidance was last updated on 26 July 2018
 
 ## Background
 This document sets out the standard of accessibility required for public sector websites and mobile apps and contains practical guidance on how to achieve this. 
