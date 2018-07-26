@@ -18,7 +18,7 @@ The Regulations builds on existing UK legislation and commitments:
 In addition to the legal drivers, there are social, financial and technical incentives for accessibility.
 
 ### Social factors
-Public sector websites must address the needs of citizens throughout the country. An accessible website can provide access to information on a far wider scale than previously possible. Social incentives for accessibility include:
+Public sector websites must address the needs of citizens across the country. An accessible website can provide access to information on a far wider scale than previously possible. Social incentives for accessibility include:
 
 * Disabled people have easier access to printed, audio or visual material
 * Citizens can access services and information, regardless of experience or ability
