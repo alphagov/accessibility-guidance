@@ -416,6 +416,7 @@ PDF is a destination format, that is to say PDF files begin in other application
 The basic guidelines for non-HTML documents should always be followed.
 
 In addition to the basic guidelines for non-HTML documents, publishers of PDF files should:
+
 * Use tools and techniques that will result in the production of accessible PDF documents.
 * Use the facilities (if available) in the word processing or authoring application to add meaningful alternative text to any graphics that appear in the document.
 * Use features inbuilt into the word processor or design package to correctly specify heading levels and other styles to identify document elements such as Titles and Headings.
